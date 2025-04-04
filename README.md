@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Christian aka kitearuba</h1>
+<p align="center">42 Barcelona student | Code warrior | Future Pythonista</p>
 
-<!--
-**kitearuba/kitearuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=%3E+_Learning+to+code...;...one+bug+at+a+time;42+Barcelona+%F0%9F%87%AA%F0%9F%87%B8+style;Currently+mastering+C+%26+Python;" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Languages & Tools**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</p>
+
+---
+
+### **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kitearuba&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitearuba&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### **Socials**
+<p align="center">
+  <a href="https://linkedin.com/in/kitearuba" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/kitearuba" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://is.crod.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### **Currently Working On**
+- Philosopher project @ 42Barcelona
+- Python OpenEDG Certification
+- Learning clean backend structures & sharpening C
+
+---
+
+### **Cool Quote to End It**
+> “Code is the closest thing we have to magic. So keep casting spells.”  
+> — kitearuba
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kitearuba&style=flat-square&color=blue" alt="profile views" />
+</p>
