@@ -51,8 +51,8 @@
 
 ---
 
-### **Cool Quote to End It**
-> “Code is the closest thing we have to magic. So keep casting spells.”  
+### 
+> “Reality is compiled. Hack yours.”  
 > — kitearuba
 
 <p align="center">
