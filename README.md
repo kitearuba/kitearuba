@@ -37,7 +37,7 @@
   <a href="https://instagram.com/kitearuba" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://is.crod.io" target="_blank">
+  <a href="https://crod.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
