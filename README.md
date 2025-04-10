@@ -1,114 +1,60 @@
-Nice! Since you liked the **previous darker hacker-style README** we did and just want to **add the new info** (like your 42 profile link, real username `chrrodri`, and maybe some updated project/status info), I’ll merge it all in.
+<h1 align="center">Hey, I'm Christian aka kitearuba</h1>
+<p align="center">42 Barcelona student | Code warrior | Future Pythonista</p>
 
-Here’s your **updated GitHub profile README** with your existing dark aesthetic **preserved**, and now enhanced with:
-
-- 🔗 Link to your 42 intra profile (`chrrodri`)
-- 🎓 Confirmation you're a student at 42 Barcelona
-- 💡 Highlight of your main projects (minishell, philosophers, etc.)
-- 🧠 Mention of Python certification prep
-- 🕸 Link to your personal site (when live)
-- 💼 Your LinkedIn and Instagram
-
----
-
-### 🧬 Final `README.md` — updated version:
-
-```markdown
-<h1 align="center">Welcome to my digital lab 🧪</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Kite+(chrrodri);Student+at+42+Barcelona;C+Developer+in+Training;Python+Dreamer+%7C+Future+AI+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=%3E+_Learning+to+code...;...one+bug+at+a+time;42+Barcelona+%F0%9F%87%AA%F0%9F%87%B8+style;Currently+mastering+C+%26+Python;" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Who Am I?
-
-```zsh
-> whoami
-kitearuba
-```
-
-```zsh
-> location
-Barcelona, Spain 🌍
-```
-
-```zsh
-> school
-42 Barcelona | Intra: https://profile.intra.42.fr/users/chrrodri
-```
-
-```zsh
-> whatido
-- Learning hardcore programming in C 🧠
-- Building shells, solving deadlocks, avoiding race conditions 💥
-- Preparing for Python OpenEDG Certification 🐍
-- Trying to keep my mental health while pushing code and limits
-```
+### **Languages & Tools**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</p>
 
 ---
 
-### 🛠 Current Projects
-
-- 🔧 [`minishell`](https://github.com/kitearuba/minishell) – writing a full shell from scratch
-- 🔄 [`philosophers`](https://github.com/kitearuba/philosophers) – solving concurrency with threads and mutexes
-- 🖨 [`ft_printf`](https://github.com/kitearuba/ft_printf) – recreating the legendary C printf function
-- 🧮 [`push_swap`](https://github.com/kitearuba/push_swap) – sorting algorithm + stack manipulation
-
-> Check out all my public repos [here](https://github.com/kitearuba?tab=repositories)
+### **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kitearuba&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitearuba&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
-### ⚙️ Tools & Stack
-
-```
-💻  C        🐧  Ubuntu (Zsh + Oh My Zsh + Powerlevel10k)
-🧠  CLion    🐍  Python (soon)
-🔧  Makefiles, Git, VS Code, Threads, Mutexes, Debuggers
-```
-
----
-
-### 🔗 Connect with Me
-
-- 📎 42 Intra: [chrrodri](https://profile.intra.42.fr/users/chrrodri)
-- 🌐 Website: [is.crod.io](https://is.crod.io) *(coming soon)*
-- 📸 Instagram: [@kitearuba](https://instagram.com/kitearuba)
-- 💼 LinkedIn: [@kitearuba](https://linkedin.com/in/kitearuba)
+### **Socials**
+<p align="center">
+  <a href="https://www.linkedin.com/in/crod42/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/kitearuba" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://crod.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💬 Motto
-
-> “Write code. Break things. Fix them. Repeat.”
+### **Currently Working On**
+- Philosopher project @ 42Barcelona
+- Python OpenEDG Certification
+- Learning clean backend structures & sharpening C
 
 ---
+
+### 
+> “Reality is compiled. Hack yours.”  
+> — kitearuba
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kitearuba/kitearuba/main/hacker-cat.gif" width="200px" />
+  <img src="https://komarev.com/ghpvc/?username=kitearuba&style=flat-square&color=blue" alt="profile views" />
 </p>
-```
-
----
-
-### ✅ What to do next:
-
-1. Go to your GitHub `kitearuba` repo (or create it if you haven’t).
-2. Replace the existing `README.md` with the version above.
-3. Commit & push.
-
----
-
-Want me to create a matching **GIF banner**, **custom terminal-style layout**, or a **42 badge generator** for your profile? I can do that too 😎https://github.com/kitearuba?tab=repositories)
-
----
-
-### 🔗 Connect with Me
-
-[![42 Intra](https://img.shields.io/badge/42%20Intra-Profile-black?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/chrrodri)
-[![Instagram](https://img.shields.io/badge/@kitearuba-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kitearuba)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kitearuba-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/kitearuba)
-
----
-
-<p align="center">💻✨ Always hacking. Always learning. Never quitting.</p>
