@@ -1,44 +1,105 @@
-<h1 align="center">Hi 👋, I'm Kite</h1>
-<h3 align="center">Aspiring Programmer | 42 Barcelona Student | Future Pythonista</h3>
+Nice! Since you liked the **previous darker hacker-style README** we did and just want to **add the new info** (like your 42 profile link, real username `chrrodri`, and maybe some updated project/status info), I’ll merge it all in.
 
+Here’s your **updated GitHub profile README** with your existing dark aesthetic **preserved**, and now enhanced with:
+
+- 🔗 Link to your 42 intra profile (`chrrodri`)
+- 🎓 Confirmation you're a student at 42 Barcelona
+- 💡 Highlight of your main projects (minishell, philosophers, etc.)
+- 🧠 Mention of Python certification prep
+- 🕸 Link to your personal site (when live)
+- 💼 Your LinkedIn and Instagram
+
+---
+
+### 🧬 Final `README.md` — updated version:
+
+```markdown
+<h1 align="center">Welcome to my digital lab 🧪</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=code.+train.+sleep.+repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi%2C+I'm+Kite+(chrrodri);Student+at+42+Barcelona;C+Developer+in+Training;Python+Dreamer+%7C+Future+AI+Builder" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
+### 🧠 Who Am I?
 
-- 💻 Currently studying at **[42 Barcelona](https://42barcelona.com/)**  
-- 🧠 Learning low-level programming in C, multi-threading, and algorithms  
-- 🐍 Starting my Python journey — preparing for **OpenEDG Python Certification**  
-- 🔭 Working on: **MiniShell**, **Philosophers**, and more  
-- 🌐 Personal website (under construction): [`is.crod.io`](https://is.crod.io)  
-- 🌟 GitHub Username: [`kitearuba`](https://github.com/kitearuba)  
-- 🧾 42 Profile: [`chrrodri`](https://profile.intra.42.fr/users/chrrodri)
+```zsh
+> whoami
+kitearuba
+```
+
+```zsh
+> location
+Barcelona, Spain 🌍
+```
+
+```zsh
+> school
+42 Barcelona | Intra: https://profile.intra.42.fr/users/chrrodri
+```
+
+```zsh
+> whatido
+- Learning hardcore programming in C 🧠
+- Building shells, solving deadlocks, avoiding race conditions 💥
+- Preparing for Python OpenEDG Certification 🐍
+- Trying to keep my mental health while pushing code and limits
+```
 
 ---
 
-### 🚀 Skills & Tools
+### 🛠 Current Projects
 
-![C](https://img.shields.io/badge/-C-000?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![Shell](https://img.shields.io/badge/-Shell-000?style=for-the-badge&logo=gnu-bash)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![CLion](https://img.shields.io/badge/-CLion-000?style=for-the-badge&logo=jetbrains)
-![Zsh](https://img.shields.io/badge/-Zsh-000?style=for-the-badge&logo=gnu-bash)
+- 🔧 [`minishell`](https://github.com/kitearuba/minishell) – writing a full shell from scratch
+- 🔄 [`philosophers`](https://github.com/kitearuba/philosophers) – solving concurrency with threads and mutexes
+- 🖨 [`ft_printf`](https://github.com/kitearuba/ft_printf) – recreating the legendary C printf function
+- 🧮 [`push_swap`](https://github.com/kitearuba/push_swap) – sorting algorithm + stack manipulation
+
+> Check out all my public repos [here](https://github.com/kitearuba?tab=repositories)
 
 ---
 
-### 📌 Current Projects
+### ⚙️ Tools & Stack
 
-- 🔧 [`minishell`](https://github.com/kitearuba/minishell)
-- 📜 [`ft_printf`](https://github.com/kitearuba/ft_printf)
-- 🧮 [`push_swap`](https://github.com/kitearuba/push_swap)
-- 🌄 [`FdF`](https://github.com/kitearuba/fdf)
+```
+💻  C        🐧  Ubuntu (Zsh + Oh My Zsh + Powerlevel10k)
+🧠  CLion    🐍  Python (soon)
+🔧  Makefiles, Git, VS Code, Threads, Mutexes, Debuggers
+```
 
-> Check my full list of public repos [here](https://github.com/kitearuba?tab=repositories)
+---
+
+### 🔗 Connect with Me
+
+- 📎 42 Intra: [chrrodri](https://profile.intra.42.fr/users/chrrodri)
+- 🌐 Website: [is.crod.io](https://is.crod.io) *(coming soon)*
+- 📸 Instagram: [@kitearuba](https://instagram.com/kitearuba)
+- 💼 LinkedIn: [@kitearuba](https://linkedin.com/in/kitearuba)
+
+---
+
+### 💬 Motto
+
+> “Write code. Break things. Fix them. Repeat.”
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kitearuba/kitearuba/main/hacker-cat.gif" width="200px" />
+</p>
+```
+
+---
+
+### ✅ What to do next:
+
+1. Go to your GitHub `kitearuba` repo (or create it if you haven’t).
+2. Replace the existing `README.md` with the version above.
+3. Commit & push.
+
+---
+
+Want me to create a matching **GIF banner**, **custom terminal-style layout**, or a **42 badge generator** for your profile? I can do that too 😎https://github.com/kitearuba?tab=repositories)
 
 ---
 
