@@ -7,6 +7,21 @@
 
 ---
 
+### 🧪 42 Project Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Libft-125%25-brightgreen?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/ft_printf-125%25-brightgreen?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/get_next_line-100%25-brightgreen?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Born2beroot-100%25-brightgreen?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/Push_swap-100%25-brightgreen?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/FdF-125%25-purple?style=for-the-badge&logo=opengl" />
+  <img src="https://img.shields.io/badge/Pipex-100%25-blue?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Exam_Rank_02-✅-black?style=for-the-badge" />
+</p>
+
+---
+
 ### **Languages & Tools**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
@@ -21,10 +36,24 @@
 
 ---
 
+### **Currently Working On**
+- Philosopher project @ 42Barcelona
+- Python OpenEDG Certification
+- Learning clean backend structures & sharpening C
+
+---
+
 ### **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kitearuba&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kitearuba&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+### **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitearuba&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -41,13 +70,6 @@
     <img src="https://img.shields.io/badge/-Portfolio-121212?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-### **Currently Working On**
-- Philosopher project @ 42Barcelona
-- Python OpenEDG Certification
-- Learning clean backend structures & sharpening C
 
 ---
 
