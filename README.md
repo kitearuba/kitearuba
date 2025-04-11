@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kitearuba/kitearuba/main/choose.png" width="70%" height="150" />
+  <img src="https://raw.githubusercontent.com/kitearuba/kitearuba/main/choose_right.png" width="90%" height="150" />
 </p>
 
 
