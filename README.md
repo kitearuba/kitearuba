@@ -10,15 +10,30 @@
 ### 🧪 42 Project Highlights
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Libft-125%25-brightgreen?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/ft_printf-100%25-blue?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/get_next_line-125%25-orange?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/Born2beroot-125%25-lightgrey?style=for-the-badge&logo=gnu-bash" />
-  <img src="https://img.shields.io/badge/Push_swap-125%25-yellow?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/FdF-125%25-purple?style=for-the-badge&logo=opengl" />
-  <img src="https://img.shields.io/badge/Pipex-100%25-blue?style=for-the-badge&logo=linux" />
+  <a href="https://github.com/kitearuba/libft" target="_blank">
+    <img src="https://img.shields.io/badge/Libft-125%25-brightgreen?style=for-the-badge&logo=c" />
+  </a>
+  <a href="https://github.com/kitearuba/printf" target="_blank">
+    <img src="https://img.shields.io/badge/ft_printf-100%25-blue?style=for-the-badge&logo=c" />
+  </a>
+  <a href="https://github.com/kitearuba/get_next_line" target="_blank">
+    <img src="https://img.shields.io/badge/get_next_line-125%25-orange?style=for-the-badge&logo=c" />
+  </a>
+  <a href="https://github.com/kitearuba/born2beroot" target="_blank">
+    <img src="https://img.shields.io/badge/Born2beroot-125%25-red?style=for-the-badge&logo=gnu-bash" />
+  </a>
+  <a href="https://github.com/kitearuba/push_swap" target="_blank">
+    <img src="https://img.shields.io/badge/Push_swap-125%25-yellow?style=for-the-badge&logo=c" />
+  </a>
+  <a href="https://github.com/kitearuba/fdf" target="_blank">
+    <img src="https://img.shields.io/badge/FdF-125%25-purple?style=for-the-badge&logo=opengl" />
+  </a>
+  <a href="https://github.com/kitearuba/pipex" target="_blank">
+    <img src="https://img.shields.io/badge/Pipex-100%25-blue?style=for-the-badge&logo=linux" />
+  </a>
   <img src="https://img.shields.io/badge/Exam_Rank_02-✅-black?style=for-the-badge" />
 </p>
+
 
 ---
 
