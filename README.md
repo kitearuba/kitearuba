@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kitearuba/kitearuba/main/choose.png" width="70%" height="150" />
+</p>
+
+
 <h1 align="center">Hey, I'm Christian aka kitearuba</h1>
 <p align="center">42 Barcelona student | Code warrior | Future Pythonista</p>
 
