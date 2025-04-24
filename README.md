@@ -36,7 +36,8 @@
   <a href="https://github.com/kitearuba/pipex" target="_blank">
     <img src="https://img.shields.io/badge/Pipex-100%25-blue?style=for-the-badge&logo=linux" />
   </a>
-  <img src="https://img.shields.io/badge/Exam_Rank_02-✅-black?style=for-the-badge" />
+  <iamg src="https://img.shields.io/badge/Exam_Rank_02-✅-black?style=for-the-badge" />
+    <iamg src="https://img.shields.io/badge/Exam_Rank_03-✅-black?style=for-the-badge" />
 </p>
 
 
