@@ -5,7 +5,9 @@
 
 <h1 align="center">Hey, I'm Christian aka kitearuba</h1>
 <p align="center">42 Barcelona student | Code warrior | Future Pythonista</p>
-
+<h1 align="center">Hey, I'm Christian aka kitearuba</h1>
+<p align="center">42 Barcelona student | Code warrior | Future Pythonista</p>
+<p align="center"><b>42 Intra Username:</b> chrrodri</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=%3E+_Learning+to+code...;...one+bug+at+a+time;42+Barcelona+%F0%9F%87%AA%F0%9F%87%B8+style;Currently+mastering+C+%26+Python;" alt="Typing SVG" />
 </p>
