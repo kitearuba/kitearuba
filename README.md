@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/kitearuba/kitearuba/main/choose_right.png" width="90%" height="150" />
 </p>
 
-
-<h1 align="center">Hey, I'm Christian aka kitearuba</h1>
-<p align="center">42 Barcelona student | Code warrior | Future Pythonista</p>
 <h1 align="center">Hey, I'm Christian aka kitearuba</h1>
 <p align="center">42 Barcelona student | Code warrior | Future Pythonista</p>
 <p align="center"><b>42 Intra Username:</b> chrrodri</p>
