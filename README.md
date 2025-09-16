@@ -37,6 +37,9 @@
   </a>
   <img src="https://img.shields.io/badge/Exam_Rank_02-✅-black?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Exam_Rank_03-✅-black?style=for-the-badge" />
+  <a href="https://github.com/kitearuba/philosopher" target="_blank">
+    <img src="https://img.shields.io/badge/Philosophers-100%25-gold?style=for-the-badge&logo=c" />
+  </a>
 </p>
 
 
