@@ -40,6 +40,9 @@
   <a href="https://github.com/kitearuba/philosopher" target="_blank">
     <img src="https://img.shields.io/badge/Philosophers-100%25-gold?style=for-the-badge&logo=c" />
   </a>
+  <a href="https://github.com/kitearuba/minishell" target="_blank">
+    <img src="https://img.shields.io/badge/minishell-100%25-pink?style=for-the-badge&logo=c" />
+  </a>
 </p>
 
 
