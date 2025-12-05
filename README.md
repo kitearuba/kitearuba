@@ -63,7 +63,7 @@
 ---
 
 ### **Currently Working On**
-- Minishell project @ 42Barcelona
+- CPP Module @ 42Barcelona
 - Python OpenEDG Certification
 - Learning clean backend structures & sharpening C
 
