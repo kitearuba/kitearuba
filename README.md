@@ -69,21 +69,6 @@
 
 ---
 
-### **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kitearuba&show_icons=true&theme=tokyonight" height="165"/>
-
-</p>
-
----
-
-### **Top Languages**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitearuba&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### **Socials**
 <p align="center">
   <a href="https://www.linkedin.com/in/crod42/" target="_blank">
