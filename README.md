@@ -43,6 +43,10 @@
   <a href="https://github.com/kitearuba/minishell" target="_blank">
     <img src="https://img.shields.io/badge/minishell-100%25-pink?style=for-the-badge&logo=c" />
   </a>
+ </a>
+  <a href="https://github.com/kitearuba/cub3D" target="_blank">
+    <img src="https://img.shields.io/badge/cub3D-100%25-green?style=for-the-badge&logo=c" />
+  </a>
 </p>
 
 
